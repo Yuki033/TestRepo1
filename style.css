@@ -1,0 +1,12 @@
+body {
+  background-color: skyblue;
+}
+
+li {
+  color: rgb(255,255,255);
+  font-family: fantasy;
+}
+
+img {
+  border: black solid 5px;
+}
