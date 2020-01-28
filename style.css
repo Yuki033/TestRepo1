@@ -1,12 +1,37 @@
 body {
-  background-color: skyblue;
-}
-
-li {
-  color: rgb(255,255,255);
-  font-family: fantasy;
+  background-color: white ;
 }
 
 img {
-  border: black solid 5px;
+  height: 150px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.ingredients li {
+  list-style: square;
+}
+
+.time {
+  background-color: grey;
+  color: white;
+}
+
+.external-link {
+  color: seagreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+#cook-time {
+  font-weight: bold;
+}
+
+h1,h2,li,
+p {
+  font-family: Helvetica;
 }
